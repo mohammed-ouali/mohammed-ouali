@@ -6,9 +6,13 @@ Most of my time goes into learning, experimenting, and building projects. I'm pa
 
 ### What I'm working with
 
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,sqlalchemy,pydantic,postgres,redis,docker,git,pytest" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="48" alt="SQLAlchemy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pydantic/pydantic-original.svg" height="48" alt="Pydantic" />
 </p>
+
 
 ### A few things I've built
 
