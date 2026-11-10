@@ -10,7 +10,7 @@ Most of my time goes into learning, experimenting, and building projects. I'm pa
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="48" alt="SQLAlchemy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pydantic/pydantic-original.svg" height="48" alt="Pydantic" />
+  <img src="https://raw.githubusercontent.com/pydantic/pydantic/main/docs/logo-white.svg" height="48" alt="Pydantic" />
 </p>
 
 
